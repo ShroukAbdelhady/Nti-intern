@@ -1,0 +1,43 @@
+.social_bar{
+    background-color: rgb(255, 182, 27);
+    padding: 12px;
+   
+}
+.social_bar i{
+    margin-left: 10px;
+}
+
+.header{
+    background: url(../images/1.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.text_yellow {
+    color:rgb(255, 182, 27) ;
+}
+ .gray{
+     background-color: rgb(242, 247, 251);
+ }
+ .shadow_color{
+     box-shadow: 0 4px 8px 0 rgba(255, 182, 27,0.9) , 0 6px 20px 0 rgba(255, 182, 27,0.9) ;
+ }
+.footer{
+    background: url(../images/6.png) no-repeat;
+    background-attachment: fixed;
+    color:rgb(166, 169, 176);
+}
+.footer_icon1{
+    font-size: 30px;
+    color: rgb(255, 182, 27);
+}
+.footer_icon2{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.footer_icon3{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.opacity_box{
+    background-color: rgba(0,0, 0, 0.8);
+}
